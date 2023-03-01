@@ -1,2 +1,2 @@
 # ImmoLodge
-application de presentation des logements 
+application de gestions des logements 
